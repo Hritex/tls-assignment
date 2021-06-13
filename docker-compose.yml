@@ -1,0 +1,17 @@
+version: '19.03'
+
+services: 
+    tls-assignment:
+        build:
+            context: .
+            dockerfile: Dockerfile
+            target: base
+        volumes:
+            - .src:./app/src
+            - ./nodemon.json:./app/nodemon.json
+        container_name: tls-assignment
+        expose: 
+            - '3000'
+        ports:
+            - '3000:3000'
+        command: npm dev run

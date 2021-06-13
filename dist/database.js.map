@@ -1,0 +1,1 @@
+{"version":3,"file":"database.js","sourceRoot":"./src/logs/logging/","sources":["database.ts"],"names":[],"mappings":";;;AAAA,2BAA0B;AAEb,QAAA,IAAI,GAAC,IAAI,SAAI,CAAC;IACvB,IAAI,EAAE,UAAU;IAChB,IAAI,EAAE,WAAW;IACjB,QAAQ,EAAE,EAAE;IACZ,QAAQ,EAAE,MAAM;IAChB,IAAI,EAAE,IAAI;CACb,CAAC,CAAA"}
