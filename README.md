@@ -1,3 +1,3 @@
-# Typescript program
+# Typescript
 Assignment
 
